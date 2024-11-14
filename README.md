@@ -1,5 +1,5 @@
 # Task 1
- import json
+- import json
  with open('data.json', 'r') as f:
      lst = json.load(f)
  div3 = [num for num in lst if num % 3 == 0]
