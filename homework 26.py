@@ -22,7 +22,7 @@ import math
 """
 
 # Task 1 | O(n)
-# def area(r,alpha):     d
+# def area(r,alpha):     
 #     S = (math.pi * r ** 2) * math.degrees(alpha) / 360
 #     print(f'Area = {S}')
 # area(5,1)
