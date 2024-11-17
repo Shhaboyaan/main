@@ -32,7 +32,7 @@ import math
 # num = int(input("Enter the arabic number: "))
 # romanian = str()
 #
-# for i,j in d.items():d
+# for i,j in d.items():
 #     while num >= j:
 #         romanian += i
 #         num -= j
