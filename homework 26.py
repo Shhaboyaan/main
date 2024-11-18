@@ -21,13 +21,13 @@ import math
 4. Գնահատեք Ձեր գրած կոդերը Big O notation-ի միջոցով։
 """
 
-# Task 1 | O(n)
+# Task 1 | O(1)
 # def area(r,alpha):     
 #     S = (math.pi * r ** 2) * math.degrees(alpha) / 360
 #     print(f'Area = {S}')
 # area(5,1)
 
-# Task 2 | O(n)
+# Task 2 | O(n^2)
 # d = {"M":1000,"D":500,"C":100,"L":50,"X":10,"V":5,'I':1}
 # num = int(input("Enter the arabic number: "))
 # romanian = str()
