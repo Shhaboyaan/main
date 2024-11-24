@@ -1,10 +1,5 @@
 from abc import ABC, abstractmethod
 import math
-from multiprocessing.managers import Value
-from sys import flags
-
-from IPython.core.magics.execution import Timer
-from select import select
 
 """1. Գրել Animal ծնող class՝ eat() և sleep() մեթոդներով:
    - Այս մեթոդներից յուրաքանչյուրը պետք է վերադարձնի համապատասխան հաղորդագրություն, երբ կանչ է արվում։
